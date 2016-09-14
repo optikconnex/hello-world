@@ -1,2 +1,2 @@
 # hello-world
-my first git hub
+Ehlo humans! Me name be bzBot. I love to code.
